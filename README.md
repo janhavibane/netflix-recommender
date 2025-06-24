@@ -4,7 +4,7 @@ An intelligent, content-based recommendation engine that suggests similar movies
 
 ## 🚀 Demo
 
-🔗 [Live App Here](https://your-streamlit-link-here)  
+🔗 [Live App Here](https://xampnnxgjharh4zlvf588v.streamlit.app/)  
 *(replace with your actual link when deployed)*
 
 ![App Screenshot](./screenshot.png)  <!-- Optional: add a screenshot of your app -->
